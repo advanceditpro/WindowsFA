@@ -1,0 +1,69 @@
+Finance Advisor (R) version 1.2.0
+Copyright (c) 2007 Advanced IT Pro
+All rights reserved.
+
+Software License
+
+   PLEASE READ THIS SOFTWARE LICENSE AGREEMENT "LICENSE" CAREFULLY 
+BEFORE INSTALLING THE SOFTWARE. BY INSTALLING THE SOFTWARE, YOU 
+ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU DO 
+NOT AGREE TO THE TERMS OF THIS LICENSE, YOU ARE NOT AUTHORIZED TO 
+INSTALL THIS SOFTWARE.
+
+
+1. License. 
+   The software and any images accompanying this License whether on 
+disk, in read only memory, or on any other media are licensed, not 
+sold, to you by AUTHOR. YOU OWN THE MEDIA ON WHICH THE SOFTWARE IS 
+RECORDED BUT AUTHOR RETAIN TITLE TO THE SOFTWARE.
+Software in this package and any copies that this License authorizes 
+you to make are subject to this License.
+
+2. Permitted Uses and Restrictions.
+   This License allows you to install and use the unregistered version 
+of Software for a reasonable period of time for the purpose of determining 
+whether Software is suitable for your needs.  The use of full version of 
+Software requires registration.
+   Except as permitted by applicable law and this License, you may not 
+decompile, reverse engineer, disassemble, modify, rent, lease, loan, 
+distribute, create derivative works from the Software or its component 
+or transmit the Software over a networks.
+   A limited license is granted to all registered and unregistered users, 
+webmasters, owners of distribution systems, BBS etc to copy and distribute 
+unregistered Software only for the trial use of others, subject to the 
+above limitations, and also the following:
+   Software and all of its release files must be copied in unmodified form, 
+complete with the file containing this license information.
+
+   Your rights under this License will terminate automatically without 
+notice from AUTHOR if you fail to comply with any term(s) of this License.
+
+3. Limited warranty.
+AUTHOR warrants that the SOFTWARE will perform in substantial compliance 
+with the description supplied with the software product.  If a significant 
+defect in the product is found, there is possibility of a refund.  In no 
+event will such a refund exceed the purchase price of the product.
+
+4. Disclaimer of Warranty on AUTHOR. 
+AUTHOR DISCLAIMS ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT 
+NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A 
+PARTICULAR PURPOSE, WITH RESPECT TO THE  PRODUCT.  SHOULD THE SOFTWARE 
+PROVE DEFECTIVE, THE PURCHASER ASSUMES THE RISK OF PAYING THE ENTIRE COST 
+OF ALL NECESSARY SERVICING, REPAIR, OR CORRECTION AND ANY INCIDENTAL OR 
+CONSEQUENTIAL DAMAGES.  IN NO EVENT WILL AUTHOR BE LIABLE FOR ANY DAMAGES 
+WHATSOEVER (INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF BUSINESS PROFITS, 
+BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION AND THE LIKE) ARISING 
+OUT OF THE USE OR THE INABILITY TO USE THIS PRODUCT EVEN IF AUTHOR HAS BEEN 
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+5. Complete Agreement. 
+This License constitutes the entire agreement between the parties with 
+respect to the use of the Software and supersedes all prior or 
+contemporaneous understandings regarding such subject matter. 
+No amendment to or modification of this License will be binding unless 
+in writing and signed by AUTHOR.      
+
+---
+Advanced IT Pro.
+http://www.advanceditpro.com/applications/
+E-mail: admin@advanceditpro.com

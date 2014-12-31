@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsFA">
+</Property><Property Name="Solution File" Value="C:\work\WindowsFA\trunk\WindowsFA\WindowsFA.sln">
+</Property><Property Name="User Options File" Value="C:\work\WindowsFA\trunk\WindowsFA\WindowsFA.suo">
+</Property><Property Name="Date" Value="Thursday, June 16, 2011">
+</Property><Property Name="Time" Value="18:23 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WindowsFA.sln" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsFA.suo" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA.suo">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\WindowsFA.csproj" Description="Project file successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\WindowsFA.csproj">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\WindowsFA.csproj.user" Description="Project user file successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\WindowsFA.csproj.user">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\AboutBox1.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\AboutBox1.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\AboutBox1.Designer.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\AboutBox1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\CashFlow.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\CashFlow.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\CFData.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\CFData.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Configuration.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Configuration.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FAModel.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FAModel.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormCFLO.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormCFLO.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormCFLO.Designer.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormCFLO.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormFA.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormFA.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormFA.Designer.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormFA.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormOptions.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormOptions.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormOptions.Designer.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormOptions.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormPE.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormPE.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormPE.Designer.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormPE.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormTVM.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormTVM.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormTVM.Designer.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormTVM.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormTVMMortgage.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormTVMMortgage.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormTVMMortgage.Designer.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormTVMMortgage.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\MoveInfo.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\MoveInfo.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\PEMember.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\PEMember.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\PriceEarning.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\PriceEarning.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Program.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Program.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resource1.Designer.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resource1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Screen.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Screen.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Sprite.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Sprite.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\TVM.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\TVM.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\TVMObjects.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\TVMObjects.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Utils.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Utils.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\WFA.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\WFA.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\WFA.Designer.cs" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\WFA.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Properties\Settings.settings" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\WindowsFA_TemporaryKey.pfx" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\WindowsFA_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\wfa.ico" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\wfa.ico">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resources\P.png" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resources\P.png">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resources\C.png" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resources\C.png">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resources\M.png" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resources\M.png">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resources\warning.png" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resources\warning.png">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resources\document.png" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resources\document.png">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resources\bear_tiny_to_left.gif" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resources\bear_tiny_to_left.gif">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resources\bear_tiny_to_right.gif" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resources\bear_tiny_to_right.gif">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resources\people.png" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resources\people.png">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resources\check.png" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resources\check.png">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resources\info.png" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resources\info.png">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resources\internet.png" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resources\internet.png">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resources\redbull_tiny_to_left.gif" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resources\redbull_tiny_to_left.gif">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resources\redbull_tiny_to_right.gif" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resources\redbull_tiny_to_right.gif">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\AboutBox1.resx" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormCFLO.resx" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormCFLO.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormFA.resx" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormFA.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormOptions.resx" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormOptions.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormPE.resx" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormPE.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormTVM.resx" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormTVM.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\FormTVMMortgage.resx" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\FormTVMMortgage.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Properties\Resources.resx" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\Resource1.resx" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\Resource1.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\WFA.resx" Description="File successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\WindowsFA\WFA.resx">
+</Event><Event ErrorLevel="1" Project="WindowsFA" Source="WindowsFA\WindowsFA.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\WindowsFA.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WindowsFA" Source="WindowsFA\WindowsFA.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SetupWindowsFA.vdproj" Source="SetupWindowsFA\SetupWindowsFA.vdproj" Description="Project file successfully backed up as C:\work\WindowsFA\trunk\WindowsFA\Backup\SetupWindowsFA\SetupWindowsFA.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsFA.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsFA.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsFA" Source="WindowsFA\WindowsFA.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
